@@ -1,0 +1,1 @@
+This is a part of my Odin Project training where i have to practice everything I have learnt. I have to work with HTML and then commit my work to GitHub
