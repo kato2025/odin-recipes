@@ -1,0 +1,27 @@
+body {
+    color: rgb(8, 33, 8);
+    background-color: snow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.headings{
+    font-size: 24px;
+}
+a {
+    text-decoration: none;
+  }
+  .lalign {
+    text-align: left;
+  }
+  ul li {
+    text-align: left;
+    margin: auto;
+    line-height: 1cm;
+  }
+  .headings.lalign {
+    color: blue;
+  }
+  .apadding {
+    padding-left: 10px;
+  }
