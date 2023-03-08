@@ -25,3 +25,7 @@ a {
   .apadding {
     padding-left: 10px;
   }
+  img {
+    width: 500px;
+    height: auto;
+  }
